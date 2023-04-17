@@ -1,1 +1,13 @@
-/* your code here */
+.product{
+	display: flex;
+}
+.photo-main{
+	background-color: rgb(0, 230, 0);
+}
+.photo-album  ul li{
+	display: inline;
+}
+
+.variant ul li {
+	display: inline;
+}
